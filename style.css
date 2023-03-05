@@ -280,6 +280,10 @@ footer {
   line-height: 30px;
 }
 
+.footer-link {
+  color: var(--primary2);
+}
+
 .footer-link:visited {
   color: var(--primary2);
 }
